@@ -1,6 +1,6 @@
 @extends("theme")
 
-@extends("content")
+@section("content")
 
 <div class="container">
 <div class="row">
